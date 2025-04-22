@@ -1,0 +1,28 @@
+/* .home-hero-image {
+    opacity: 0;
+    transform: translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+    transition: all 1s ease-in-out;
+  }
+  
+  .home-hero-image-wrapper:hover .home-hero-image {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+  } */
+
+  .home-hero-image {
+    opacity: 0;
+    transform: translate3d(0, 0, 0) scale3d(1.2, 1.2, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+    transition: all 1s ease-in-out;
+  }
+  
+  .home-hero-image-wrapper {
+    overflow: hidden;
+  }
+  
+  /* When in viewport, show the animation */
+  .home-hero-image.active {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+  }
+  
+  

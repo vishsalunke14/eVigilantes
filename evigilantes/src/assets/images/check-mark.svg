@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>check-mark</title>
+	<defs>
+		<image  width="24" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAAXNSR0IB2cksfwAAANJQTFRF1fMoxuImWWUTkKQdm7EfFxoGYW8U0u8oiJscCAkCTVcR0e8oeYoYBwcBNz4MzOgnhpkbCgsCExUFudMkrcUiDQ4DAQEBhZcb1PIoxOAmxuEmISUHAAAASVMPz+wnutQkS1UQFRgFdYUYXWoUERMEq8MiwNolMTcLAQEAbHsWt9EkAwMBZnQVzOkncoIXBgYBBQUBs8wjUFsRDQ8DyOQmjKAcLDEKYG0UZXMVCQoCLjQKLzYKjqEcBQYBdocYzusnLDIJBQYCs80jg5UaPUUNnbMfyMLAqgAAAK5JREFUeJxjZMABGGkqwcjI+BebBAtQ4icWCQ6g+p+YRnEDlTN+xGKHAFD8LRbLRYDiL5FdJfFS4v8LBgYpkEGPkCTkGRkZGF9+ZVD+ycF4G8kfaoyMXxh4GK9rMX4UuILiQV2QjUDzX4kznkHzuemvtwxSl4WlTzKgSTBYPAESsj/OY0hIKgJdI3/mJ4YEgw3jfQalQwyYEvaMd1QZ92GRYHBmZNzNgE0CDVBRAgCVmCUZypA3kgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
