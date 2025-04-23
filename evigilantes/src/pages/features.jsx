@@ -38,7 +38,7 @@ function features() {
                                     transition={{ duration: 1.5, ease: 'easeOut' }}
                                     viewport={{ once: true }}
                                     >
-                                    <div class="section-text-wrapper integrations-text-wrapper">
+                                    <div class="section-text-wrapper integrations-text-wrapper-service">
                                         <h3 class="section-title center">Unrivaled Security & Innovation
                                         </h3>
                                     </div>

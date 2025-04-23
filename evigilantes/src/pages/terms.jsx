@@ -119,7 +119,11 @@ function terms() {
                                         <p></p>
 
                                         <h5>10. Contact Us</h5>
-                                        <p>If you have any questions regarding these Terms and Conditions, you may contact us at:<br/>📧 info@evigilantes.com<br/>🌐 eVigilantes.com</p>
+                                        <p>If you have any questions regarding these Terms and Conditions, you may contact us at:
+                                        <br/>📧 <a href="mailto:info@evigilantes.com" >info@evigilantes.com</a><br/>
+                                        🌐 <a href="https://www.evigilantes.com" target="_blank" rel="noopener noreferrer">eVigilantes.com</a>
+                                        </p>
+
                                         <p>Last Updated: 12-04-2025</p>
                                         <p>‍</p>
                                     </div>

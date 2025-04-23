@@ -3373,6 +3373,11 @@ ol {
   align-items: center;
   max-width: 450px;
 }
+.section-text-wrapper.integrations-text-wrapper-service {
+  justify-content: flex-start;
+  align-items: center;
+  max-width: 700px;
+}
 
 .section-text-wrapper.benifits-text-wrapper {
   justify-content: flex-start;

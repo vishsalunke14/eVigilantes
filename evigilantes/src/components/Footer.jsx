@@ -33,7 +33,8 @@ const Footer = () => {
             <div className="footer-last-block">
                 <div className="w-layout-blockcontainer container-default w-container">
                     <div className="footer-copyright-block">
-                        <div className="footer-social-block"><a href="https://www.facebook.com" target="_blank"
+                        <div className="footer-social-block">
+                            {/* <a href="https://www.facebook.com" target="_blank"
                                 className="footer-social-link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg"
                                     width="100%" viewBox="0 0 24 25" fill="none" className="footer-social-icon">
                                     <g clip-path="url(#clip0_355_11623)">
@@ -47,13 +48,17 @@ const Footer = () => {
                                                 transform="translate(0 0.0654297)"></rect>
                                         </clippath>
                                     </defs>
-                                </svg></a><a href="https://x.com" target="_blank"
+                                </svg>
+                            </a>
+                            <a href="https://x.com" target="_blank"
                                 className="footer-social-link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg"
                                     width="100%" viewBox="0 0 24 25" fill="none" className="footer-social-icon">
                                     <path
                                         d="M8.26635 3.06543C8.40325 3.06549 8.53868 3.09365 8.66424 3.14818C8.78981 3.20271 8.90285 3.28244 8.99635 3.38243L9.07235 3.47443L13.3464 9.30243L19.2924 3.35843C19.4723 3.17908 19.7138 3.07496 19.9677 3.0672C20.2217 3.05945 20.4691 3.14864 20.6596 3.31668C20.8502 3.48471 20.9697 3.71898 20.9937 3.9719C21.0178 4.22483 20.9448 4.47744 20.7894 4.67843L20.7064 4.77243L14.5434 10.9344L20.8054 19.4744C20.909 19.6159 20.9737 19.7823 20.9928 19.9567C21.0119 20.1311 20.9847 20.3074 20.9141 20.468C20.8435 20.6286 20.7318 20.7678 20.5904 20.8716C20.449 20.9754 20.2827 21.0402 20.1084 21.0594L19.9994 21.0654H15.7324C15.5955 21.0654 15.46 21.0372 15.3345 20.9827C15.2089 20.9282 15.0959 20.8484 15.0024 20.7484L14.9264 20.6564L10.6504 14.8274L4.70635 20.7724C4.52639 20.9518 4.28492 21.0559 4.03097 21.0637C3.77702 21.0714 3.52964 20.9822 3.33907 20.8142C3.14851 20.6461 3.02905 20.4119 3.00495 20.159C2.98086 19.906 3.05394 19.6534 3.20935 19.4524L3.29235 19.3584L9.45335 13.1954L3.19335 4.65643C3.08966 4.51491 3.02503 4.3486 3.00594 4.1742C2.98685 3.9998 3.01398 3.82345 3.0846 3.66285C3.15522 3.50226 3.26685 3.36306 3.40828 3.25925C3.54972 3.15544 3.71597 3.09067 3.89035 3.07143L3.99935 3.06543H8.26635Z"
                                         fill="currentColor"></path>
-                                </svg></a><a href="https://www.linkedin.com/company/evigilantes/" target="_blank"
+                                </svg>
+                            </a> */}
+                            <a href="https://www.linkedin.com/company/evigilantes/" target="_blank"
                                 className="footer-social-link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg"
                                     width="100%" viewBox="0 0 24 25" fill="none" className="footer-social-icon">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -71,7 +76,9 @@ const Footer = () => {
                                     <path fill-rule="evenodd" clip-rule="evenodd"
                                         d="M11.8787 10.9441C12.4413 10.3815 13.2043 10.0654 14 10.0654C14.7957 10.0654 15.5587 10.3815 16.1213 10.9441C16.6839 11.5067 17 12.2698 17 13.0654V16.0654C17 16.6177 16.5523 17.0654 16 17.0654C15.4477 17.0654 15 16.6177 15 16.0654V13.0654C15 12.8002 14.8946 12.5459 14.7071 12.3583C14.5196 12.1708 14.2652 12.0654 14 12.0654C13.7348 12.0654 13.4804 12.1708 13.2929 12.3583C13.1054 12.5459 13 12.8002 13 13.0654C13 13.6177 12.5523 14.0654 12 14.0654C11.4477 14.0654 11 13.6177 11 13.0654C11 12.2698 11.3161 11.5067 11.8787 10.9441Z"
                                         fill="currentColor"></path>
-                                </svg></a><a href="https://www.instagram.com/evigilantes/#" target="_blank"
+                                </svg>
+                            </a>
+                                <a href="https://www.instagram.com/evigilantes/#" target="_blank"
                                 className="footer-social-link w-inline-block"><svg xmlns="http://www.w3.org/2000/svg"
                                     width="100%" viewBox="0 0 24 25" fill="none" className="footer-social-icon">
                                     <path

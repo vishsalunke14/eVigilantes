@@ -125,7 +125,7 @@ function privacypolicy() {
                                         <p>‍</p>
 
                                         <h5>9. Contact Us</h5>
-                                        <p>For privacy concerns or inquiries, reach out at privacy@evigilantes.com.</p>
+                                        <p>For privacy concerns or inquiries, reach out at <a href="mailto:info@evigilantes.com" >info@evigilantes.com</a></p>
                                         
                                         <p></p>
 
